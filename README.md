@@ -4,7 +4,7 @@ Music and Food Recommendation App
 
 Features:
 
-Retrieve user's top songs and calculate audio feature similarity from the Spotify api.
+Retrieve user's top songs and calculate audio feature similarity from the Spotify API.
 Display matching music preferences and their similarity percentages.
 Get real-time weather information based on the user's city.
 Recommend vegan food and beverage options if the user is vegan.
