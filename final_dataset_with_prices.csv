@@ -1,0 +1,516 @@
+Season,Time Period,Stock Description,Sales Volume,STOCK_DESCRIPTION,TOTAL_PRICE_INCLDISC,Calories,Danceability/Energy,Loudness,liveness,Liveness,Price
+Fall,Late Night,Beverage,,Premium Draft Beer,5440.0,200.0,0,0.0,0,1.0,
+Fall,Late Night,Beverage - Michelob,,C ABD | Michelob Golden Draft Light | DFT 24 F,4766.0,110.0,0,0.0,0,1.0,$20.99
+Fall,Late Night,Beverage - Michelob,,C ABD | Michelob Golden Draft Light | CAN 16 F,3741.0,110.0,0,0.0,0,1.0,$10.49
+Fall,Late Night,Water,,C NWT | Dasani | BTL 20 F,3517.75,0.0,0,0.0,0,0.0,$3.99
+Fall,Late Night,Beverage - Vodka,,C ALV | Pinnacle Vodka | CUP 1.25 F,3187.5,97.0,0,0.0,0,1.0,$13.00
+Fall,Late Night,Beverage - Beer,,C ABD | Bud Light | DFT 24 F,2713.75,155.0,0,0.0,0,1.0,$12.99
+Fall,Late Night,Beverage,,C ABD | Coors Light | CAN 16 F,2674.0,110.0,0,0.0,0,1.0,$13.99
+Fall,Late Night,Beverage - Beer,,C ABD | Bud Light | CAN 16 F,2573.0,110.0,0,0.0,0,1.0,$7.99
+Fall,Late Night,Beverage - Beer,,Domestic Draft Beer,2466.0,155.0,0,0.0,0,1.0,$10.99
+Fall,Late Night,Water,,Dasani Water,1943.0,0.0,0,0.0,0,0.0,$39.00
+Fall,Late Night,Beverage,,C ALR | Captain Morgan Original | CUP 1.25 F,1893.5,65.0,0,0.0,0,0.0,$9.99
+Fall,Late Night,Beverage,,C ABI | Stella Artois | CAN 25oz F,1853.5,275.0,1,0.0,0,0.0,$3.99
+Fall,Late Night,Beverage,,C ABI |Modelo Especial  | CAN 16 F,1839.6,-1,0,0.0,0,0.0,$8.99
+Fall,Late Night,Beverage,,Mixed Drink - Red - Premium,1766.5,-200,0,0.0,0,0.0,$9.99
+Fall,Late Night,Beverage - Beer,,C ABI | Corona Extra | CAN 24 F,1667.5,275.0,1,0.0,0,1.0,$25.99
+Fall,Late Night,Beverage - Wine,,Wine-House,1600.0,-100,0,0.0,0,0.0,$21.99
+Fall,Late Night,Beverage - Vodka,,C ALV | Grey Goose | DBL Grey Goose CUP 12 F,1529.0,-100,0,0.0,0,0.0,$15.99
+Fall,Late Night,Beverage,,C ALI | 2 GINGERS | CUP 1.25 F,1402.5,150.0,0,0.0,0,0.0,$8.99
+Fall,Late Night,Beverage - Beer,,C ABI | Corona Extra | CAN 16 F,1367.0,-150,0,0.0,0,1.0,$10.49
+Fall,Late Night,Beverage - Beer,,C ABI | Corona Extra | DFT 20 F,1331.5,-150,0,0.0,0,0.0,$9.99
+Fall,Late Night,Beverage,,C ABX | Stella Artois Cidre | CAN 16 F,1263.0,-180,0,0.0,0,0.0,$17.99
+Fall,Late Night,Beverage - Beer,,C ABD | Budweiser | CAN 16 F,1256.5,-145,0,0.0,0,0.0,$13.99
+Fall,Late Night,Beverage,,C ALR | Bacardi Superior | CUP 1.25 F,1224.0,-100,0,0.0,0,0.0,$14.99
+Fall,Early Morning,Beverage,,Bacardi Superior - H,51.0,-100,0,0.0,0,0.0,$8.99
+Fall,Early Morning,Beverage - Vodka,,Grey Goose - H,34.0,97.0,0,0.0,0,0.0,$34.99
+Fall,Early Morning,Beverage,,Liquor - SINGLE - Catering,30.0,95.0,0,0.0,0,0.0,$9.99
+Fall,Early Morning,Beverage - Soft Drink,,Can Pepsi 12oz,3.81,175.0,0,0.0,0,0.0,$10.98
+Fall,Early Morning,Beverage - Cocktail,,(Alc) Deluxe Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Fall,Early Morning,Beverage - Cocktail,,(Alc) Premium Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Fall,Early Morning,Beverage,,(C) Blue Moon Can 16oz,0.0,200.0,0,0.0,0,0.0,$3.99
+Fall,Early Morning,Beverage - Soft Drink,,(C) Bottled Coke,0.0,175.0,0,0.0,0,0.0,$4.99
+Fall,Early Morning,Beverage - Soft Drink,,(C) Bottled Diet Coke,0.0,175.0,0,0.0,0,0.0,$3.99
+Fall,Early Morning,Beverage - Soft Drink,,(C) Bottled Sprite,0.0,175.0,0,0.0,0,0.0,$4.99
+Fall,Early Morning,Water,,(C) Bottled Water,0.0,0.0,0,0.0,0,0.0,$3.99
+Fall,Early Morning,Food - Snack,,(C) Candy,0.0,150,0,0.0,0,0.0,$2.99
+Fall,Early Morning,Beverage,,(C) Coors Light 16oz Can,0.0,110.0,0,0.0,0,0.0,$8.99
+Fall,Early Morning,Beverage - Beer,,(C) Corona can 16oz,0.0,165.0,0,0.0,0,0.0,$8.99
+Fall,Early Morning,Beverage,,(C) Domestic Draft,0.0,200.0,0,0.0,0,0.0,$14.49
+Fall,Early Morning,Beverage - Cocktail,,(C) Lime A Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Fall,Early Morning,Beverage - Cocktail,,(C) Mango Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Fall,Early Morning,Beverage,,(C) Miller Lite 16oz Can,0.0,110.0,0,0.0,0,0.0,$4.99
+Fall,Early Morning,Food - Snack,,(C) Peanuts,0.0,165.0,0,0.0,0,0.0,$2.99
+Fall,Early Morning,Beverage,,(C) Premium Draft,0.0,200.0,0,0.0,0,0.0,$3.97
+Fall,Early Morning,Beverage - Cocktail,,(C) Raspberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Fall,Early Morning,Beverage - Cocktail,,(C) Strawberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Fall,Morning,Beverage - Cocktail,,(Alc) Deluxe Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Fall,Morning,Beverage - Cocktail,,(Alc) Premium Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Fall,Morning,Beverage,,(C) Blue Moon Can 16oz,0.0,200.0,0,0.0,0,0.0,$3.99
+Fall,Morning,Beverage - Soft Drink,,(C) Bottled Coke,0.0,175.0,0,0.0,0,0.0,$4.99
+Fall,Morning,Beverage - Soft Drink,,(C) Bottled Diet Coke,0.0,175.0,0,0.0,0,0.0,$3.99
+Fall,Morning,Beverage - Soft Drink,,(C) Bottled Sprite,0.0,175.0,0,0.0,0,0.0,$4.99
+Fall,Morning,Water,,(C) Bottled Water,0.0,0.0,0,0.0,0,0.0,$3.99
+Fall,Morning,Food - Snack,,(C) Candy,0.0,150,0,0.0,0,0.0,$2.99
+Fall,Morning,Beverage,,(C) Coors Light 16oz Can,0.0,110.0,0,0.0,0,0.0,$8.99
+Fall,Morning,Beverage - Beer,,(C) Corona can 16oz,0.0,165.0,0,0.0,0,0.0,$8.99
+Fall,Morning,Beverage,,(C) Domestic Draft,0.0,200.0,0,0.0,0,0.0,$14.49
+Fall,Morning,Beverage - Cocktail,,(C) Lime A Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Fall,Morning,Beverage - Cocktail,,(C) Mango Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Fall,Morning,Beverage,,(C) Miller Lite 16oz Can,0.0,110.0,0,0.0,0,0.0,$4.99
+Fall,Morning,Food - Snack,,(C) Peanuts,0.0,165.0,0,0.0,0,0.0,$2.99
+Fall,Morning,Beverage,,(C) Premium Draft,0.0,200.0,0,0.0,0,0.0,$3.97
+Fall,Morning,Beverage - Cocktail,,(C) Raspberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Fall,Morning,Beverage - Cocktail,,(C) Strawberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Fall,Morning,Food - Snack,,"(Deleted) Guacamole, add-on",0.0,-1,0,0.0,0,0.0,$1.99
+Fall,Afternoon,Food - Snack,,Bavarian Pretzel,9.0,350.0,0,0.0,0,0.0,$9.99
+Fall,Afternoon,Beverage - Soft Drink,,Diet Coke,9.0,175.0,0,0.0,0,0.0,$3.99
+Fall,Afternoon,Beverage - Soft Drink,,Diet Dr. Pepper,9.0,175.0,0,0.0,0,0.0,$3.99
+Fall,Afternoon,Water,,Bottled Water,8.0,0.0,0,0.0,0,0.0,$3.99
+Fall,Afternoon,Beverage - Cocktail,,(Alc) Deluxe Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Fall,Afternoon,Beverage - Cocktail,,(Alc) Premium Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Fall,Afternoon,Beverage,,(C) Blue Moon Can 16oz,0.0,200.0,0,0.0,0,0.0,$3.99
+Fall,Afternoon,Beverage - Soft Drink,,(C) Bottled Coke,0.0,175.0,0,0.0,0,0.0,$4.99
+Fall,Afternoon,Beverage - Soft Drink,,(C) Bottled Diet Coke,0.0,175.0,0,0.0,0,0.0,$3.99
+Fall,Afternoon,Beverage - Soft Drink,,(C) Bottled Sprite,0.0,175.0,0,0.0,0,0.0,$4.99
+Fall,Afternoon,Water,,(C) Bottled Water,0.0,0.0,0,0.0,0,0.0,$3.99
+Fall,Afternoon,Food - Snack,,(C) Candy,0.0,150,0,0.0,0,0.0,$2.99
+Fall,Afternoon,Beverage,,(C) Coors Light 16oz Can,0.0,110.0,0,0.0,0,0.0,$8.99
+Fall,Afternoon,Beverage - Beer,,(C) Corona can 16oz,0.0,165.0,0,0.0,0,0.0,$8.99
+Fall,Afternoon,Beverage,,(C) Domestic Draft,0.0,200.0,0,0.0,0,0.0,$14.49
+Fall,Afternoon,Beverage - Cocktail,,(C) Lime A Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Fall,Afternoon,Beverage - Cocktail,,(C) Mango Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Fall,Afternoon,Beverage,,(C) Miller Lite 16oz Can,0.0,110.0,0,0.0,0,0.0,$4.99
+Fall,Afternoon,Food - Snack,,(C) Peanuts,0.0,165.0,0,0.0,0,0.0,$2.99
+Fall,Afternoon,Beverage,,(C) Premium Draft,0.0,200.0,0,0.0,0,0.0,$3.97
+Fall,Afternoon,Beverage - Cocktail,,(C) Raspberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Fall,Afternoon,Beverage - Cocktail,,(C) Strawberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Fall,Evening,Beverage,,25oz Can Modelo,40.0,275.0,1,0.0,0,0.0,$4.99
+Fall,Evening,Food - Sandwich,,Aloha BBQ Sandwich,36.0,350.0,0,0.0,0,0.0,$8.99
+Fall,Evening,Beverage - Beer,,Lot J Concert Parking,30.0,155.0,0,0.0,0,0.0,$5.00
+Fall,Evening,Beverage - Beer,,Cavalia Prem Beer,24.0,155.0,0,0.0,0,0.0,$3.99
+Fall,Evening,Food - Panini,,Ham and Swiss Panini,22.0,600.0,0,1.0,0,0.0,$10.99
+Fall,Evening,Food - BBQ,,Loaded BBQ Baked Potato,19.0,400.0,0,1.0,0,0.0,$10.99
+Fall,Evening,Beverage,,Coors Light,16.5,110.0,0,0.0,0,0.0,$4.99
+Fall,Evening,Beverage,,Arnold Palmer,16.0,125.0,0,0.0,0,0.0,$4.99
+Fall,Evening,Beverage - Wine,,Cavali Wine,14.0,130.0,0,0.0,0,0.0,$24.99
+Fall,Evening,Water,,Bottled Water,13.25,0.0,0,0.0,0,0.0,$3.99
+Fall,Evening,Food - Popcorn,,P FPC Popcorn SNK,12.0,125.0,0,0.0,0,0.0,$5.99
+Fall,Evening,Food - Nachos,,Smoked Chicken Nachos,12.0,700.0,1,1.0,0,0.0,$9.99
+Fall,Evening,Beverage - Beer,,BEER DOMESTIC MILLER LITE PILSNER CAN 24 FZ,10.0,155.0,0,0.0,0,0.0,$3.99
+Fall,Evening,Food - Pretzel,,Jumbo Pretzel,10.0,450.0,0,1.0,0,0.0,$9.99
+Fall,Evening,Water,,C NWT | Dasani | BTL 20 F,9.9,0.0,0,0.0,0,0.0,$3.99
+Fall,Evening,Food - Tortillas,,20oz Draft WOW Wheat,9.0,225.0,0,0.0,0,0.0,$9.99
+Fall,Evening,Food - Ice cream,,Cup - One Scoop,9.0,175,0,0.0,0,0.0,$2.99
+Fall,Evening,Beverage - Soft Drink,,Diet Coke,9.0,175.0,0,0.0,0,0.0,$3.99
+Fall,Evening,Beverage,,20oz Draft Mic Ultra,8.0,110.0,0,0.0,0,0.0,$19.99
+Fall,Evening,Beverage,,C FLH Hebrew National ENT BEF,7.49,-1,0,0.0,0,0.0,$5.18
+Fall,Evening,Food - Cookies,,Chocolate Chunk Cookie,7.0,250.0,0,0.0,0,0.0,$3.99
+Fall,Evening,Beverage,,Miller Genuine Draft,7.0,175.0,0,0.0,0,0.0,$6.99
+Fall,Evening,Beverage - Soft Drink,,Coke,6.0,175.0,0,0.0,0,0.0,$3.99
+Fall,Night,Beverage - Beer,,C ABD | Michelob Golden Draft Light | CAN 16 F,1746.75,110.0,0,0.0,0,1.0,$10.49
+Fall,Night,Beverage - Beer,,C ABD | Bud Light | CAN 16 F,1663.75,110.0,0,0.0,0,1.0,$7.99
+Fall,Night,Water,,C NWT | Dasani | BTL 20 F,1482.2,0.0,0,0.0,0,0.0,$3.99
+Fall,Night,Beverage - Beer,,Coors Light 24 oz,1324.98,225.0,1,0.0,0,0.0,$5.99
+Fall,Night,Beverage - Vodka,,C ALV | Tito's Handmade Vodka | Double Cocktail CUP 2 F,1274.0,97.0,0,0.0,0,0.0,$7.99
+Fall,Night,Beverage - Beer,,C ABI | Corona Extra | CAN 16 F,1051.0,-150,0,0.0,0,1.0,$10.49
+Fall,Night,Beverage - Beer,,C ABI | Corona Extra | DFT 20 F,957.0,-150,0,0.0,0,0.0,$9.99
+Fall,Night,Beverage - Beer,,C ABI |Modelo Especial  | CAN 16 F,813.0,155.0,0,0.0,0,0.0,$8.99
+Fall,Night,Beverage,,C ABD | Coors Light | CAN 16 F,699.0,110.0,0,0.0,0,1.0,$13.99
+Fall,Night,Beverage,,Pernicious 16 oz,681.38,-1,0,0.0,0,0.0,$6.99
+Fall,Night,Beverage - Beer,,C ABD | Budweiser | CAN 16 F,671.0,-145,0,0.0,0,0.0,$13.99
+Fall,Night,Beverage - Beer,,C ABI | Corona Extra | CAN 24 F,659.5,275.0,1,0.0,0,1.0,$25.99
+Fall,Night,Beverage,,Terrapin Luau Krunkles 16 oz,659.4,-1,0,0.0,0,0.0,$29.99
+Fall,Night,Food - Chicken Tenders,,C FTT Chicken Tenders & Fries ENT CHK CMB,640.0,-1,0,0.0,0,0.0,$10.99
+Fall,Night,Water,,C NWT | Aquafina | Water BTL 24 F,625.0,0.0,0,0.0,0,0.0,$3.99
+Fall,Night,Beverage - Beer,,C ABD | Michelob Golden Draft Light | DFT 24 F,621.5,110.0,0,0.0,0,1.0,$20.99
+Fall,Night,Beverage,,C ABI | Stella Artois | CAN 25oz F,586.0,275.0,1,0.0,0,0.0,$3.99
+Fall,Night,Beverage,,C ALT | Cazadores Reposado | DBL Cazadores Reposada CUP 12 F,529.0,110.0,0,0.0,0,0.0,$8.99
+Fall,Night,Food - Pretzel,,C FPP Pretzel SNK,510.0,350.0,0,0.0,0,0.0,$9.99
+Fall,Night,Beverage,,C ALL | Unspecified Liquor | CUP 1.25 F,499.0,95.0,0,0.0,0,0.0,$7.99
+Fall,Night,Beverage,,C ABC | Lift Bridge Farm Girl Saison | CAN 16 F,485.0,175.0,0,0.0,0,0.0,$9.99
+Fall,Night,Water,,C NWT | Aquafina | BTL 20 F,481.5,0.0,0,0.0,0,0.0,$3.99
+Fall,Night,Water,,Brooklyn Nets Water 16.9oz,468.33,0.0,0,0.0,0,0.0,$3.99
+Fall,Night,Water,,Napoleon Complex 16 oz,450.59,0.0,0,0.0,0,0.0,$9.99
+Spring,Late Night,Beverage - Beer,,Premium Draft Beer,5234.0,155.0,0,0.0,0,1.0,
+Spring,Late Night,Beverage - Beer,,C ABD | Michelob Golden Draft Light | CAN 16 F,4305.0,110.0,0,0.0,0,1.0,$10.49
+Spring,Late Night,Water,,C NWT | Dasani | BTL 20 F,3311.25,0.0,0,0.0,0,0.0,$3.99
+Spring,Late Night,Beverage - Beer,,C ABD | Michelob Golden Draft Light | DFT 24 F,2923.5,110.0,0,0.0,0,1.0,$20.99
+Spring,Late Night,Beverage,,C ABD | Coors Light | CAN 16 F,2298.25,110.0,0,0.0,0,1.0,$13.99
+Spring,Late Night,Beverage - Vodka,,C ALV | Pinnacle Vodka | CUP 1.25 F,2249.5,97.0,0,0.0,0,1.0,$13.00
+Spring,Late Night,Beverage - Beer,,Domestic Draft Beer,2187.0,155.0,0,0.0,0,1.0,$10.99
+Spring,Late Night,Beverage - Beer,,C ABD | Bud Light | CAN 16 F,1920.0,110.0,0,0.0,0,1.0,$7.99
+Spring,Late Night,Beverage - Beer,,C ABI | Corona Extra | CAN 16 F,1790.0,-150,0,0.0,0,1.0,$10.49
+Spring,Late Night,Beverage - Beer,,C ABD | Bud Light | DFT 24 F,1679.25,155.0,0,0.0,0,1.0,$12.99
+Spring,Late Night,Beverage,,C ABI |Modelo Especial  | CAN 16 F,1530.0,-1,0,0.0,0,0.0,$8.99
+Spring,Late Night,Beverage,,C ALT | Sauza Blue Silver | CUP 16 F,1409.5,110.0,0,0.0,0,0.0,$10.99
+Spring,Late Night,Beverage,,Coors Light Draught  20oz,1400.0,-1,0,0.0,0,0.0,$8.98
+Spring,Late Night,Beverage,,Molson Canadian Draught 20oz,1386.0,175.0,0,0.0,0,0.0,$9.99
+Spring,Late Night,Beverage,,C ALR | Captain Morgan Original | CUP 1.25 F,1341.75,65.0,0,0.0,0,0.0,$9.99
+Spring,Late Night,Water,,Dasani Water,1207.5,0.0,0,0.0,0,0.0,$39.00
+Spring,Late Night,Beverage,,C ABI | Corona Extra | CAN 24 F,1172.0,275.0,1,0.0,0,1.0,$25.99
+Spring,Late Night,Beverage - Rum,,C ALR | Bacardi Superior | CUP 1.25 F,1137.0,-100,0,0.0,0,0.0,$14.99
+Spring,Late Night,Beverage - Vodka,,C ALV | Smirnoff No. 21 (Original) | CUP 16 F,1084.0,97.0,0,0.0,0,0.0,$8.89
+Spring,Late Night,Beverage - Beer,,Bud Light,1066.25,155.0,0,0.0,0,0.0,$5.90
+Spring,Late Night,Beverage - Beer,,C ABI | Corona Extra | DFT 20 F,1026.5,-150,0,0.0,0,0.0,$9.99
+Spring,Late Night,Beverage - Beer,,C ABD | Miller Lite | CAN 16 F,944.5,110.0,0,0.0,0,0.0,$7.99
+Spring,Late Night,Beverage,,C ABX | Stella Artois Cidre | CAN 16 F,925.5,-180,0,0.0,0,0.0,$17.99
+Spring,Early Morning,Beverage,,Crown Royal BTL 750mL,100.0,-1,0,0.0,0,0.0,$8.99
+Spring,Early Morning,Beverage - Tonic Water,,Can Tonic Water 12oz (6pk),19.04,15.0,0,0.0,0,0.0,$3.99
+Spring,Early Morning,Beverage - Cocktail,,(Alc) Deluxe Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Spring,Early Morning,Beverage - Cocktail,,(Alc) Premium Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Spring,Early Morning,Beverage,,(C) Blue Moon Can 16oz,0.0,200.0,0,0.0,0,0.0,$3.99
+Spring,Early Morning,Beverage - Soft Drink,,(C) Bottled Coke,0.0,175.0,0,0.0,0,0.0,$4.99
+Spring,Early Morning,Beverage - Soft Drink,,(C) Bottled Diet Coke,0.0,175.0,0,0.0,0,0.0,$3.99
+Spring,Early Morning,Beverage - Soft Drink,,(C) Bottled Sprite,0.0,175.0,0,0.0,0,0.0,$4.99
+Spring,Early Morning,Water,,(C) Bottled Water,0.0,0.0,0,0.0,0,0.0,$3.99
+Spring,Early Morning,Food - Snack,,(C) Candy,0.0,150,0,0.0,0,0.0,$2.99
+Spring,Early Morning,Beverage,,(C) Coors Light 16oz Can,0.0,110.0,0,0.0,0,0.0,$8.99
+Spring,Early Morning,Beverage - Beer,,(C) Corona can 16oz,0.0,165.0,0,0.0,0,0.0,$8.99
+Spring,Early Morning,Beverage - Beer,,(C) Domestic Draft,0.0,200.0,0,0.0,0,0.0,$14.49
+Spring,Early Morning,Beverage - Cocktail,,(C) Lime A Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Spring,Early Morning,Beverage - Cocktail,,(C) Mango Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Spring,Early Morning,Beverage,,(C) Miller Lite 16oz Can,0.0,110.0,0,0.0,0,0.0,$4.99
+Spring,Early Morning,Food - Snack,,(C) Peanuts,0.0,165.0,0,0.0,0,0.0,$2.99
+Spring,Early Morning,Beverage,,(C) Premium Draft,0.0,200.0,0,0.0,0,0.0,$3.97
+Spring,Early Morning,Beverage - Cocktail,,(C) Raspberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Spring,Early Morning,Beverage - Cocktail,,(C) Strawberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Spring,Morning,Beverage - Cocktail,,(Alc) Deluxe Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Spring,Morning,Beverage - Cocktail,,(Alc) Premium Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Spring,Morning,Beverage,,(C) Blue Moon Can 16oz,0.0,200.0,0,0.0,0,0.0,$3.99
+Spring,Morning,Beverage - Soft Drink,,(C) Bottled Coke,0.0,175.0,0,0.0,0,0.0,$4.99
+Spring,Morning,Beverage - Soft Drink,,(C) Bottled Diet Coke,0.0,175.0,0,0.0,0,0.0,$3.99
+Spring,Morning,Beverage - Soft Drink,,(C) Bottled Sprite,0.0,175.0,0,0.0,0,0.0,$4.99
+Spring,Morning,Water,,(C) Bottled Water,0.0,0.0,0,0.0,0,0.0,$3.99
+Spring,Morning,Food - Snack,,(C) Candy,0.0,150,0,0.0,0,0.0,$2.99
+Spring,Morning,Beverage,,(C) Coors Light 16oz Can,0.0,110.0,0,0.0,0,0.0,$8.99
+Spring,Morning,Beverage - Beer,,(C) Corona can 16oz,0.0,165.0,0,0.0,0,0.0,$8.99
+Spring,Morning,Beverage - Beer,,(C) Domestic Draft,0.0,200.0,0,0.0,0,0.0,$14.49
+Spring,Morning,Beverage - Cocktail,,(C) Lime A Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Spring,Morning,Beverage - Cocktail,,(C) Mango Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Spring,Morning,Beverage,,(C) Miller Lite 16oz Can,0.0,110.0,0,0.0,0,0.0,$4.99
+Spring,Morning,Food - Snack,,(C) Peanuts,0.0,165.0,0,0.0,0,0.0,$2.99
+Spring,Morning,Beverage,,(C) Premium Draft,0.0,200.0,0,0.0,0,0.0,$3.97
+Spring,Morning,Beverage - Cocktail,,(C) Raspberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Spring,Morning,Beverage - Cocktail,,(C) Strawberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Spring,Afternoon,Food - Hot Dog,,kid's Hot Dog,6.0,100,0,0.0,0,0.0,$3.49
+Spring,Afternoon,Water,,Bottled Water,4.25,0.0,0,0.0,0,0.0,$3.99
+Spring,Afternoon,Beverage - Cocktail,,(Alc) Deluxe Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Spring,Afternoon,Beverage - Cocktail,,(Alc) Premium Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Spring,Afternoon,Beverage,,(C) Blue Moon Can 16oz,0.0,200.0,0,0.0,0,0.0,$3.99
+Spring,Afternoon,Beverage - Soft Drink,,(C) Bottled Coke,0.0,175.0,0,0.0,0,0.0,$4.99
+Spring,Afternoon,Beverage - Soft Drink,,(C) Bottled Diet Coke,0.0,175.0,0,0.0,0,0.0,$3.99
+Spring,Afternoon,Beverage - Soft Drink,,(C) Bottled Sprite,0.0,175.0,0,0.0,0,0.0,$4.99
+Spring,Afternoon,Water,,(C) Bottled Water,0.0,0.0,0,0.0,0,0.0,$3.99
+Spring,Afternoon,Food - Snack,,(C) Candy,0.0,150,0,0.0,0,0.0,$2.99
+Spring,Afternoon,Beverage,,(C) Coors Light 16oz Can,0.0,110.0,0,0.0,0,0.0,$8.99
+Spring,Afternoon,Beverage,,(C) Corona can 16oz,0.0,165.0,0,0.0,0,0.0,$8.99
+Spring,Afternoon,Beverage,,(C) Domestic Draft,0.0,200.0,0,0.0,0,0.0,$14.49
+Spring,Afternoon,Beverage - Cocktail,,(C) Lime A Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Spring,Afternoon,Beverage - Cocktail,,(C) Mango Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Spring,Afternoon,Beverage,,(C) Miller Lite 16oz Can,0.0,110.0,0,0.0,0,0.0,$4.99
+Spring,Afternoon,Food - Snack,,(C) Peanuts,0.0,165.0,0,0.0,0,0.0,$2.99
+Spring,Afternoon,Beverage,,(C) Premium Draft,0.0,200.0,0,0.0,0,0.0,$3.97
+Spring,Afternoon,Beverage - Cocktail,,(C) Raspberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Spring,Afternoon,Beverage - Cocktail,,(C) Strawberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Spring,Evening,Beverage,,Draft Craft,150.0,-1,0,0.0,0,0.0,$5.99
+Spring,Evening,Beverage - Beer,,Bud Light,123.75,155.0,0,0.0,0,0.0,$5.90
+Spring,Evening,Beverage - Beer,,Blvd Radler,69.0,155.0,0,0.0,0,0.0,$7.98
+Spring,Evening,Food - Sandwich,,Masterpiece deli 14,56.0,275,0,0.0,0,0.0,$9.99
+Spring,Evening,Beverage - Margarita,,Margarita,55.5,250.0,1,0.0,0,0.0,$8.99
+Spring,Evening,Beverage,,Draft Domestic,52.5,-1,0,0.0,0,0.0,$7.99
+Spring,Evening,Beverage - Beer,,Beer - Domestic 24oz,42.0,155.0,0,0.0,0,0.0,$6.99
+Spring,Evening,Beverage - Cocktail,,CONCERT WELL CKCTAIL,36.0,-1,0,0.0,0,0.0,$7.99
+Spring,Evening,Food - Tortillas,,Blvd Wheat,34.5,150,0,0.0,0,0.0,$9.99
+Spring,Evening,Beverage - Beer,,Corona,29.25,155.0,0,0.0,0,0.0,$5.89
+Spring,Evening,Beverage - Beer,,Coors Lite Alum 16oz,24.75,155.0,0,0.0,0,0.0,$8.99
+Spring,Evening,Food - Tacos,,Beef Brisket Tacos,24.0,300,0,0.0,0,0.0,$7.99
+Spring,Evening,Beverage - Beer,,Beer - Bud Can,21.0,155.0,0,0.0,0,0.0,$5.99
+Spring,Evening,Beverage,,C ALT | Sauza Blue Silver | CUP 16 F,21.0,110.0,0,0.0,0,0.0,$10.99
+Spring,Evening,Beverage,,GB DRINK,21.0,-1,0,0.0,0,0.0,$6.78
+Spring,Evening,Beverage,,Coors Light,19.0,110.0,0,0.0,0,0.0,$4.99
+Spring,Evening,Beverage,,Miller Lite,19.0,110.0,0,0.0,0,0.0,$8.99
+Spring,Evening,Food - Nachos,,Smoked Chicken Nachos,18.0,700.0,1,1.0,0,0.0,$9.99
+Spring,Evening,Beverage,,Budweiser,16.5,160.0,0,0.0,0,0.0,$4.99
+Spring,Evening,Water,,Bottled Water - Aquafina,16.0,0.0,0,0.0,0,0.0,$3.99
+Spring,Evening,Beverage - Beer,,DOMESTIC PINT,16.0,155.0,0,0.0,0,0.0,$9.99
+Spring,Evening,Food - Hot Dog,,Grilled Farmland Hot Dog,15.75,175.0,0,0.0,0,0.0,$8.99
+Spring,Evening,Beverage - Cocktail,,Cash Bar Cocktails,14.0,-1,0,0.0,0,0.0,$9.99
+Spring,Evening,Water,,Bottled Water,12.75,0.0,0,0.0,0,0.0,$3.99
+Spring,Evening,Food - Nachos,,Nachos,10.5,650.0,1,1.0,0,0.0,$7.99
+Spring,Night,Beverage,,Hopsecutioner 16 oz,4923.52,-1,0,0.0,0,0.0,$3.99
+Spring,Night,Beverage,,Miller Lite 24 oz,3533.28,225.0,1,0.0,0,0.0,$3.99
+Spring,Night,Beverage,,Coors Light 24 oz,3245.68,225.0,1,0.0,0,0.0,$5.99
+Spring,Night,Beverage,,Vizzy Selter 24 oz,2798.0,110.0,0,0.0,0,0.0,$7.99
+Spring,Night,Beverage - Beer,,C ABI | Corona Extra | DFT 20 F,2054.5,-150,0,0.0,0,0.0,$9.99
+Spring,Night,Beverage - Beer,,C ABD | Michelob Golden Draft Light | CAN 16 F,1718.25,110.0,0,0.0,0,1.0,$10.49
+Spring,Night,Beverage - Vodka,,C ALV | Tito's Handmade Vodka | Double Cocktail CUP 2 F,1457.0,97.0,0,0.0,0,0.0,$7.99
+Spring,Night,Food - Paletas,,Paletas (100),1290.64,150,0,0.0,0,0.0,$19.99
+Spring,Night,Water,,C NWT | Dasani | BTL 20 F,1259.0,0.0,0,0.0,0,0.0,$3.99
+Spring,Night,Water,,C NWT | Aquafina | Water BTL 24 F,1112.0,0.0,0,0.0,0,0.0,$3.99
+Spring,Night,Beverage - Vodka,,C ALV | Tito's Handmade Vodka | Single Cocktail CUP 1 F,1037.5,97.0,0,0.0,0,0.0,$8.99
+Spring,Night,Beverage,,C ABX | Stella Artois Cidre | CAN 16 F,975.0,-180,0,0.0,0,0.0,$17.99
+Spring,Night,Beverage,,C ABD | Coors Light | CAN 16 F,910.0,110.0,0,0.0,0,1.0,$13.99
+Spring,Night,Food - Pretzel,,C FPP Pretzel SNK,835.0,350.0,0,0.0,0,0.0,$9.99
+Spring,Night,Beverage - Beer,,C ABI | Corona Extra | CAN 16 F,820.0,-150,0,0.0,0,1.0,$10.49
+Spring,Night,Water,,C NWT | Aquafina | BTL 20 F,775.0,0.0,0,0.0,0,0.0,$3.99
+Spring,Night,Beverage - Vodka,,C ALV | Grey Goose | DBL Grey Goose CUP 12 F,649.0,-100,0,0.0,0,0.0,$15.99
+Spring,Night,Beverage - Beer,,C ABI | Corona Extra | CAN 24 F,640.0,275.0,1,0.0,0,1.0,$25.99
+Spring,Night,Beverage,,C ALT | Sauza Blue Silver | CUP 16 F,596.0,110.0,0,0.0,0,0.0,$10.99
+Spring,Night,Beverage - Beer,,C ABD | Bud Light | CAN 16 F,571.0,110.0,0,0.0,0,1.0,$7.99
+Spring,Night,Beverage,,C ALL | Unspecified Liquor | CUP 1.25 F,565.0,95.0,0,0.0,0,0.0,$7.99
+Spring,Night,Food - Hot Dog,,C FLH Nathans Hot Dog 7/1 ENT BEF,536.0,175.0,0,0.0,0,0.0,$9.99
+Spring,Night,Beverage - Beer,,Premium beer!,531.0,155.0,0,0.0,0,0.0,$7.99
+Summer,Late Night,Water,,C NWT | Dasani | BTL 20 F,5078.15,0.0,0,0.0,0,0.0,$3.99
+Summer,Late Night,Beverage - Beer,,Premium Draft Beer,4828.0,155.0,0,0.0,0,1.0,
+Summer,Late Night,Beverage - Beer,,C ABD | Michelob ULTRA | CAN 16 F,4632.5,155.0,0,0.0,0,0.0,$8.99
+Summer,Late Night,Beverage - Vodka,,C ALV | Pinnacle Vodka | CUP 1.25 F,4553.75,97.0,0,0.0,0,1.0,$13.00
+Summer,Late Night,Beverage - Beer,,C ABD | Michelob Golden Draft Light | CAN 16 F,4462.75,110.0,0,0.0,0,1.0,$10.49
+Summer,Late Night,Beverage - Beer,,C ABD | Michelob Golden Draft Light | DFT 24 F,4275.75,110.0,0,0.0,0,1.0,$20.99
+Summer,Late Night,Beverage - Beer,,C ABD | Bud Light | DFT 24 F,3407.25,155.0,0,0.0,0,1.0,$12.99
+Summer,Late Night,Beverage - Beer,,C ABD | Bud Light | CAN 16 F,3287.5,110.0,0,0.0,0,1.0,$7.99
+Summer,Late Night,Beverage - Beer,,C ABD | Budweiser | CAN 16 F,2750.75,-145,0,0.0,0,0.0,$13.99
+Summer,Late Night,Beverage - Beer,,Domestic Draft Beer,2618.0,155.0,0,0.0,0,1.0,$10.99
+Summer,Late Night,Beverage,,C ABD | Coors Light | CAN 16 F,2462.5,110.0,0,0.0,0,1.0,$13.99
+Summer,Late Night,Water,,Dasani Water,2455.0,0.0,0,0.0,0,0.0,$39.00
+Summer,Late Night,Beverage,,C ALR | Captain Morgan Original | CUP 1.25 F,2232.0,65.0,0,0.0,0,0.0,$9.99
+Summer,Late Night,Beverage,,C ABX | Stella Artois Cidre | CAN 16 F,1973.25,-180,0,0.0,0,0.0,$17.99
+Summer,Late Night,Beverage - Rum,,C ALR | Bacardi Superior | CUP 1.25 F,1754.25,-100,0,0.0,0,0.0,$14.99
+Summer,Late Night,Beverage - Cocktail,,Mixed Drink - Red - Premium,1726.0,-200,0,0.0,0,0.0,$9.99
+Summer,Late Night,Beverage - Beer,,C ABI | Corona Extra | CAN 24 F,1660.5,275.0,1,0.0,0,1.0,$25.99
+Summer,Late Night,Beverage,,C ALI | 2 GINGERS | CUP 1.25 F,1631.25,150.0,0,0.0,0,0.0,$8.99
+Summer,Late Night,Beverage - Wine,,Wine-House,1498.0,-100,0,0.0,0,0.0,$21.99
+Summer,Late Night,Beverage - Beer,,C ABD | Budweiser | DFT 24 F,1428.0,155.0,0,0.0,0,0.0,$7.99
+Summer,Early Morning,Beverage - Cocktail,,(Alc) Deluxe Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Summer,Early Morning,Beverage - Cocktail,,(Alc) Premium Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Summer,Early Morning,Beverage,,(C) Blue Moon Can 16oz,0.0,200.0,0,0.0,0,0.0,$3.99
+Summer,Early Morning,Beverage - Soft Drink,,(C) Bottled Coke,0.0,175.0,0,0.0,0,0.0,$4.99
+Summer,Early Morning,Beverage - Soft Drink,,(C) Bottled Diet Coke,0.0,175.0,0,0.0,0,0.0,$3.99
+Summer,Early Morning,Beverage - Soft Drink,,(C) Bottled Sprite,0.0,175.0,0,0.0,0,0.0,$4.99
+Summer,Early Morning,Water,,(C) Bottled Water,0.0,0.0,0,0.0,0,0.0,$3.99
+Summer,Early Morning,Food - Snack,,(C) Candy,0.0,150,0,0.0,0,0.0,$2.99
+Summer,Early Morning,Beverage,,(C) Coors Light 16oz Can,0.0,110.0,0,0.0,0,0.0,$8.99
+Summer,Early Morning,Beverage,,(C) Corona can 16oz,0.0,165.0,0,0.0,0,0.0,$8.99
+Summer,Early Morning,Beverage,,(C) Domestic Draft,0.0,200.0,0,0.0,0,0.0,$14.49
+Summer,Early Morning,Beverage - Cocktail,,(C) Lime A Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Summer,Early Morning,Beverage - Cocktail,,(C) Mango Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Summer,Early Morning,Beverage,,(C) Miller Lite 16oz Can,0.0,110.0,0,0.0,0,0.0,$4.99
+Summer,Early Morning,Food - Snack,,(C) Peanuts,0.0,165.0,0,0.0,0,0.0,$2.99
+Summer,Early Morning,Beverage,,(C) Premium Draft,0.0,200.0,0,0.0,0,0.0,$3.97
+Summer,Early Morning,Beverage - Cocktail,,(C) Raspberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Summer,Early Morning,Beverage - Cocktail,,(C) Strawberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Summer,Morning,Beverage - Cocktail,,(Alc) Deluxe Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Summer,Morning,Beverage - Cocktail,,(Alc) Premium Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Summer,Morning,Beverage,,(C) Blue Moon Can 16oz,0.0,200.0,0,0.0,0,0.0,$3.99
+Summer,Morning,Beverage - Soft Drink,,(C) Bottled Coke,0.0,175.0,0,0.0,0,0.0,$4.99
+Summer,Morning,Beverage - Soft Drink,,(C) Bottled Diet Coke,0.0,175.0,0,0.0,0,0.0,$3.99
+Summer,Morning,Beverage - Soft Drink,,(C) Bottled Sprite,0.0,175.0,0,0.0,0,0.0,$4.99
+Summer,Morning,Water,,(C) Bottled Water,0.0,0.0,0,0.0,0,0.0,$3.99
+Summer,Morning,Food - Snack,,(C) Candy,0.0,150,0,0.0,0,0.0,$2.99
+Summer,Morning,Beverage,,(C) Coors Light 16oz Can,0.0,110.0,0,0.0,0,0.0,$8.99
+Summer,Morning,Beverage - Beer,,(C) Corona can 16oz,0.0,165.0,0,0.0,0,0.0,$8.99
+Summer,Morning,Beverage,,(C) Domestic Draft,0.0,200.0,0,0.0,0,0.0,$14.49
+Summer,Morning,Beverage - Cocktail,,(C) Lime A Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Summer,Morning,Beverage - Cocktail,,(C) Mango Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Summer,Morning,Beverage,,(C) Miller Lite 16oz Can,0.0,110.0,0,0.0,0,0.0,$4.99
+Summer,Morning,Food - Snack,,(C) Peanuts,0.0,165.0,0,0.0,0,0.0,$2.99
+Summer,Morning,Beverage,,(C) Premium Draft,0.0,200.0,0,0.0,0,0.0,$3.97
+Summer,Morning,Beverage - Cocktail,,(C) Raspberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Summer,Morning,Beverage - Cocktail,,(C) Strawberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Summer,Afternoon,Beverage - Soft Drink,,Sprite,16.0,175.0,0,0.0,0,0.0,$3.99
+Summer,Afternoon,Food - Choclates,,Dove Chocolate,10.0,250,0,0.0,0,0.0,$7.99
+Summer,Afternoon,Beverage,,Leinenkugel Summer Shandy,8.0,175.0,0,0.0,0,0.0,$9.49
+Summer,Afternoon,Food - Hot Dog,,Grilled Farmland Hot Dog,5.25,175.0,0,0.0,0,0.0,$8.99
+Summer,Afternoon,Food - Nachos,,Nachos,5.25,650.0,1,1.0,0,0.0,$7.99
+Summer,Afternoon,Beverage - Soft Drink,,Dr. Pepper,4.75,175.0,0,0.0,0,0.0,$3.99
+Summer,Afternoon,Food - Sandwich,,Cookie Sandwich,4.5,250,0,0.0,0,0.0,$9.99
+Summer,Afternoon,Food - Ice cream,,Thin Mint Ice Cream Bar,4.5,250,0,0.0,0,0.0,$3.99
+Summer,Afternoon,Food - Choclates,,M&M Plain,4.25,250,0,0.0,0,0.0,$3.99
+Summer,Afternoon,Food - Ice cream,,Ben & Jerry's Cookie Dough,4.0,280,0,0.0,0,0.0,$3.99
+Summer,Afternoon,Beverage - Soft Drink,,Diet Coke,4.0,175.0,0,0.0,0,0.0,$3.99
+Summer,Afternoon,Water,,Bottled Water,3.0,0.0,0,0.0,0,0.0,$3.99
+Summer,Afternoon,Beverage - Cocktail,,(Alc) Deluxe Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Summer,Afternoon,Beverage - Cocktail,,(Alc) Premium Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Summer,Afternoon,Beverage,,(C) Blue Moon Can 16oz,0.0,200.0,0,0.0,0,0.0,$3.99
+Summer,Afternoon,Beverage - Soft Drink,,(C) Bottled Coke,0.0,175.0,0,0.0,0,0.0,$4.99
+Summer,Afternoon,Beverage - Soft Drink,,(C) Bottled Diet Coke,0.0,175.0,0,0.0,0,0.0,$3.99
+Summer,Afternoon,Beverage - Soft Drink,,(C) Bottled Sprite,0.0,175.0,0,0.0,0,0.0,$4.99
+Summer,Afternoon,Water,,(C) Bottled Water,0.0,0.0,0,0.0,0,0.0,$3.99
+Summer,Afternoon,Food - Choclates,,(C) Candy,0.0,150,0,0.0,0,0.0,$2.99
+Summer,Afternoon,Beverage,,(C) Coors Light 16oz Can,0.0,110.0,0,0.0,0,0.0,$8.99
+Summer,Afternoon,Beverage - Beer,,(C) Corona can 16oz,0.0,165.0,0,0.0,0,0.0,$8.99
+Summer,Afternoon,Beverage,,(C) Domestic Draft,0.0,200.0,0,0.0,0,0.0,$14.49
+Summer,Afternoon,Beverage - Cocktail,,(C) Lime A Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Summer,Afternoon,Beverage - Cocktail,,(C) Mango Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Summer,Evening,Beverage - Cocktail,,1) Premium Cocktail,420.0,-1,0,0.0,0,0.0,$8.99
+Summer,Evening,Beverage - Beer,,Bud Light Draft,216.0,155.0,0,0.0,0,0.0,$7.99
+Summer,Evening,Water,,"Water, 20oz",192.0,0.0,0,0.0,0,0.0,$3.99
+Summer,Evening,Food - Chicken Wings,,Game Time Chicken Wings,157.14,1000,0,1.0,0,0.0,$10.99
+Summer,Evening,Food - Snack,,Medium Nutz,130.0,150,0,0.0,0,0.0,$3.49
+Summer,Evening,Water,,C NWT | Dasani | BTL 20 F,102.1,0.0,0,0.0,0,0.0,$3.99
+Summer,Evening,Water,,Dasani,90.0,0.0,0,0.0,0,0.0,$3.99
+Summer,Evening,Beverage,,Shock Top Draft,88.0,-1,0,0.0,0,0.0,$5.99
+Summer,Evening,Beverage - Beer,,C ABD | Bud Light | ALM 16 F,84.0,155.0,0,0.0,0,0.0,$8.99
+Summer,Evening,Beverage - Beer,,C ABD | Bud Light | CAN 25 F,83.7,155.0,0,0.0,0,0.0,$8.99
+Summer,Evening,Beverage - Margarita,,Souvenir Margarita,80.0,-1,0,0.0,0,0.0,$9.99
+Summer,Evening,Beverage,,C FLH Hebrew National ENT BEF,74.25,-1,0,0.0,0,0.0,$5.18
+Summer,Evening,Water,,Bottled Water,56.0,0.0,0,0.0,0,0.0,$3.99
+Summer,Evening,Beverage - Whiskey,,P ALA | Jack Daniels | GLS 1.25 F,56.0,110.0,0,0.0,0,0.0,$10.99
+Summer,Evening,Beverage - Wine,,1) Wine,55.0,130.0,0,0.0,0,0.0,$11.99
+Summer,Evening,Beverage - Vodka,,C ALV | Tito's Handmade Vodka | Single Cocktail CUP 1 F,50.0,97.0,0,0.0,0,0.0,$8.99
+Summer,Evening,Beverage - Beer,,1) Domestic Beer,48.0,155.0,0,0.0,0,0.0,$7.99
+Summer,Evening,Food - Pizza,,Pepperoni Pizza 14inch,46.67,1750,0,1.0,0,0.0,$13.99
+Summer,Evening,Beverage,,C ALL | Unspecified Liquor | Intl CUP 12 F,45.0,95.0,0,0.0,0,0.0,$7.99
+Summer,Evening,Beverage,,C ABD | Miller Lite | ALM 16 F,42.0,110.0,0,0.0,0,0.0,$7.99
+Summer,Evening,Beverage,,C ABX | Bud Light Seltzer Black Cherry | CAN 25 F,41.85,110.0,0,0.0,0,0.0,$9.99
+Summer,Evening,Food - Pretzel,,Bavarian Pretzel,41.0,350.0,0,0.0,0,0.0,$9.99
+Summer,Evening,Beverage - Vodka,,C ALV | Tito's Handmade Vodka | CUP 1.25 F,40.0,97.0,0,0.0,0,0.0,$7.99
+Summer,Evening,Food - Chicken Tenders,,C FLS Ben's Half Smoke All The Way ENT MLT,39.8,500,0,1.0,0,0.0,$9.99
+Summer,Night,Beverage - Beer,,B-Large Domestic Beer,3967.31,155.0,0,0.0,0,0.0,$13.49
+Summer,Night,Water,,C NWT | Dasani | BTL 20 F,3271.6,0.0,0,0.0,0,0.0,$3.99
+Summer,Night,Water,,"Water, 20oz",2334.0,0.0,0,0.0,0,0.0,$3.99
+Summer,Night,Beverage,,C ABD | Bud Light | CAN 16 F,2238.25,110.0,0,0.0,0,1.0,$7.99
+Summer,Night,Food - Burger,,Double Cheeseburger,2033.15,650.0,1,1.0,0,0.0,$8.99
+Summer,Night,Water,,Bottled Water,1623.76,0.0,0,0.0,0,0.0,$3.99
+Summer,Night,Beverage - Beer,,C ABD | Michelob Golden Draft Light | CAN 16 F,1553.75,110.0,0,0.0,0,1.0,$10.49
+Summer,Night,Food - Snack,,Medium Nutz,1391.0,150,0,0.0,0,0.0,$3.49
+Summer,Night,Beverage - Beer,,C ABD | Bud Light | CAN 25 F,1380.0,155.0,0,0.0,0,0.0,$8.99
+Summer,Night,Food - Hot Dog,,Hot Dog,1269.88,175.0,0,0.0,0,0.0,$7.99
+Summer,Night,Beverage - Cocktail,,1) Premium Cocktail,1170.0,-1,0,0.0,0,0.0,$8.99
+Summer,Night,Beverage - Vodka,,C ALV | Tito's Handmade Vodka | Double Cocktail CUP 2 F,1164.5,97.0,0,0.0,0,0.0,$7.99
+Summer,Night,Beverage - Soda,,Bottomless Souvenir Soda,1114.33,-1,0,0.0,0,0.0,$8.99
+Summer,Night,Beverage - Beer,,C ABI | Corona Extra | DFT 20 F,992.5,-150,0,0.0,0,0.0,$9.99
+Summer,Night,Beverage - Beer,,C ABD | Budweiser | CAN 16 F,945.5,-145,0,0.0,0,0.0,$13.99
+Summer,Night,Food - Tortillas,,C ABC | Goose Island 312 Urban Wheat | CAN 16 F,837.0,175.0,0,0.0,0,0.0,$9.99
+Summer,Night,Water,,C NWT | Aquafina | Water BTL 24 F,813.0,0.0,0,0.0,0,0.0,$3.99
+Summer,Night,Food - French Fries,,French Fries,766.72,300.0,0,0.0,0,0.0,$3.99
+Summer,Night,Beverage - Soda,,C NSU | Unspecified Soda | CUP 32 F,752.0,-1,0,0.0,0,0.0,$6.99
+Summer,Night,Beverage - Soft Drink,,Truly Fruit Punch Seltzer,738.0,175.0,0,0.0,0,0.0,$9.99
+Summer,Night,Beverage - Beer,,C ABD | Michelob Golden Draft Light | DFT 24 F,736.0,110.0,0,0.0,0,1.0,$20.99
+Summer,Night,Beverage - Soda,,C NSU | Unspecified Soda | CUP 24 F,735.5,-1,0,0.0,0,0.0,$5.99
+Summer,Night,Food - Chicken Tenders,,C FTT Chicken Tenders & Fries ENT CHK CMB,724.0,-1,0,0.0,0,0.0,$10.99
+Winter,Late Night,Water,,C NWT | Dasani | BTL 20 F,4505.0,0.0,0,0.0,0,0.0,$3.99
+Winter,Late Night,Beverage - Beer,,C ABD | Bud Light | CAN 16 F,2939.75,110.0,0,0.0,0,1.0,$7.99
+Winter,Late Night,Beverage - Beer,,C ABI | Corona Extra | CAN 24 F,2584.5,275.0,1,0.0,0,1.0,$25.99
+Winter,Late Night,Beverage - Beer,,Premium Draft Beer,2342.0,155.0,0,0.0,0,1.0,
+Winter,Late Night,Beverage - Vodka,,C ALV | Grey Goose | DBL Grey Goose CUP 12 F,2286.0,-100,0,0.0,0,0.0,$15.99
+Winter,Late Night,Beverage - Beer,,C ABD | Michelob Golden Draft Light | CAN 16 F,2249.0,110.0,0,0.0,0,1.0,$10.49
+Winter,Late Night,Beverage - Beer,,C ABD | Michelob Golden Draft Light | DFT 24 F,2188.0,110.0,0,0.0,0,1.0,$20.99
+Winter,Late Night,Beverage - Beer,,C ABI | Corona Extra | CAN 16 F,2114.5,-150,0,0.0,0,1.0,$10.49
+Winter,Late Night,Beverage - Vodka,,C ALV | Pinnacle Vodka | CUP 1.25 F,2025.25,97.0,0,0.0,0,1.0,$13.00
+Winter,Late Night,Beverage,,C ABD | Coors Light | CAN 16 F,1691.5,110.0,0,0.0,0,1.0,$13.99
+Winter,Late Night,Beverage,,C ALR | Captain Morgan Original | CUP 1.25 F,1408.25,65.0,0,0.0,0,0.0,$9.99
+Winter,Late Night,Beverage - Beer,,C ABD | Bud Light | DFT 24 F,1365.5,155.0,0,0.0,0,1.0,$12.99
+Winter,Late Night,Beverage,,C ABI |Modelo Especial  | CAN 16 F,1356.0,-1,0,0.0,0,0.0,$8.99
+Winter,Late Night,Beverage - Vodka,,C ALV | Tito's Handmade Vodka | CUP 1.25 F,1325.0,97.0,0,0.0,0,0.0,$7.99
+Winter,Late Night,Beverage - Rum,,C ALR | Bacardi Superior | CUP 1.25 F,1217.0,-100,0,0.0,0,0.0,$14.99
+Winter,Late Night,Beverage - Beer,,C ABD | Bud Light | CAN 25 F,1147.5,155.0,0,0.0,0,0.0,$8.99
+Winter,Late Night,Beverage,,C ABD | Miller Lite | CAN 16 F,1141.0,110.0,0,0.0,0,0.0,$7.99
+Winter,Late Night,Beverage - Beer,,16oz Beer,1122.0,155.0,0,0.0,0,0.0,$7.99
+Winter,Late Night,Beverage - Soda,,C NSU | Unspecified Soda | CUP 32 F,1086.0,-1,0,0.0,0,0.0,$6.99
+Winter,Late Night,Beverage - Soda,,C NSU | Unspecified Soda | CUP 24 F,1075.25,-1,0,0.0,0,0.0,$5.99
+Winter,Late Night,Beverage - Whiskey,,C ALA | Jack Daniels | CUP 16 F,1075.0,110.0,0,0.0,0,0.0,$7.99
+Winter,Late Night,Beverage - Beer,,Bud Light,1056.0,155.0,0,0.0,0,0.0,$5.90
+Winter,Late Night,Beverage,,C ABI | Stella Artois | CAN 25oz F,970.5,275.0,1,0.0,0,0.0,$3.99
+Winter,Early Morning,Beverage - Beer,,C ABD | Bud Light | CAN 16 F,88.0,110.0,0,0.0,0,1.0,$7.99
+Winter,Early Morning,Beverage,,C ABC | Summit Extra Pale Ale | CAN 16 F,26.0,175.0,0,0.0,0,0.0,$8.99
+Winter,Early Morning,Beverage - Vodka,,C ALV | Pinnacle Vodka | CUP 1.25 F,26.0,97.0,0,0.0,0,1.0,$13.00
+Winter,Early Morning,Water,,C NWT | Dasani | BTL 20 F,25.0,0.0,0,0.0,0,0.0,$3.99
+Winter,Early Morning,Beverage - Beer,,C ABD | Michelob Golden Draft Light | DFT 24 F,24.0,110.0,0,0.0,0,1.0,$20.99
+Winter,Early Morning,Beverage - Vodka,,C ALV | Absolut Vodka | CUP 1.25 F,14.0,97.0,0,0.0,0,0.0,$9.99
+Winter,Early Morning,Beverage - Vodka,,C ALV | Tito's Handmade Vodka | CUP 1.25 F,14.0,97.0,0,0.0,0,0.0,$7.99
+Winter,Early Morning,Beverage - Beer,,C ALR | Bacardi Superior | CUP 1.25 F,13.0,-100,0,0.0,0,0.0,$14.99
+Winter,Early Morning,Beverage,,P ALR | Captain Morgan Original | CUP 1.25 F,13.0,65.0,0,0.0,0,0.0,$10.10
+Winter,Early Morning,Beverage - Beer,,C ABD | Budweiser | CAN 16 F,11.0,-145,0,0.0,0,0.0,$13.99
+Winter,Early Morning,Beverage,,C ABD | Coors Light | CAN 16 F,11.0,110.0,0,0.0,0,1.0,$13.99
+Winter,Early Morning,Beverage,,C ABD | Michelob Golden Draft Light | CAN 16 F,11.0,110.0,0,0.0,0,1.0,$10.49
+Winter,Early Morning,Beverage - Soft Drink,,C NEE | Red Bull Sugarfree | CAN 8.40 F,5.0,175.0,0,0.0,0,0.0,$7.99
+Winter,Early Morning,Beverage - Cocktail,,(Alc) Deluxe Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Winter,Early Morning,Beverage - Cocktail,,(Alc) Premium Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Winter,Early Morning,Beverage,,(C) Blue Moon Can 16oz,0.0,200.0,0,0.0,0,0.0,$3.99
+Winter,Early Morning,Beverage - Soft Drink,,(C) Bottled Coke,0.0,175.0,0,0.0,0,0.0,$4.99
+Winter,Early Morning,Beverage - Soft Drink,,(C) Bottled Diet Coke,0.0,175.0,0,0.0,0,0.0,$3.99
+Winter,Early Morning,Beverage - Soft Drink,,(C) Bottled Sprite,0.0,175.0,0,0.0,0,0.0,$4.99
+Winter,Early Morning,Water,,(C) Bottled Water,0.0,0.0,0,0.0,0,0.0,$3.99
+Winter,Early Morning,Food - Choclates,,(C) Candy,0.0,150,0,0.0,0,0.0,$2.99
+Winter,Early Morning,Beverage,,(C) Coors Light 16oz Can,0.0,110.0,0,0.0,0,0.0,$8.99
+Winter,Early Morning,Beverage - Beer,,(C) Corona can 16oz,0.0,165.0,0,0.0,0,0.0,$8.99
+Winter,Early Morning,Beverage,,(C) Domestic Draft,0.0,200.0,0,0.0,0,0.0,$14.49
+Winter,Morning,Beverage - Beer,,(Alc) Deluxe Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Winter,Morning,Beverage - Cocktail,,(Alc) Premium Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Winter,Morning,Beverage,,(C) Blue Moon Can 16oz,0.0,200.0,0,0.0,0,0.0,$3.99
+Winter,Morning,Beverage - Soft Drink,,(C) Bottled Coke,0.0,175.0,0,0.0,0,0.0,$4.99
+Winter,Morning,Beverage - Soft Drink,,(C) Bottled Diet Coke,0.0,175.0,0,0.0,0,0.0,$3.99
+Winter,Morning,Beverage - Soft Drink,,(C) Bottled Sprite,0.0,175.0,0,0.0,0,0.0,$4.99
+Winter,Morning,Water,,(C) Bottled Water,0.0,0.0,0,0.0,0,0.0,$3.99
+Winter,Morning,Food - Choclates,,(C) Candy,0.0,150,0,0.0,0,0.0,$2.99
+Winter,Morning,Beverage,,(C) Coors Light 16oz Can,0.0,110.0,0,0.0,0,0.0,$8.99
+Winter,Morning,Beverage - Beer,,(C) Corona can 16oz,0.0,165.0,0,0.0,0,0.0,$8.99
+Winter,Morning,Beverage,,(C) Domestic Draft,0.0,200.0,0,0.0,0,0.0,$14.49
+Winter,Morning,Beverage - Cocktail,,(C) Lime A Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Winter,Morning,Beverage - Cocktail,,(C) Mango Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Winter,Morning,Beverage,,(C) Miller Lite 16oz Can,0.0,110.0,0,0.0,0,0.0,$4.99
+Winter,Morning,Food - Snack,,(C) Peanuts,0.0,165.0,0,0.0,0,0.0,$2.99
+Winter,Morning,Beverage,,(C) Premium Draft,0.0,200.0,0,0.0,0,0.0,$3.97
+Winter,Morning,Beverage - Cocktail,,(C) Raspberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Winter,Morning,Beverage - Cocktail,,(C) Strawberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Winter,Afternoon,Water,,Bottled Water,17.0,0.0,0,0.0,0,0.0,$3.99
+Winter,Afternoon,Beverage - Coffee,,Coffee,10.0,-1,0,0.0,0,0.0,$3.49
+Winter,Afternoon,Beverage - Coffee,,PC - Large Coffee 16oz,10.0,-1,0,0.0,0,0.0,$4.99
+Winter,Afternoon,Beverage - Soft Drink,,Cherry Coke,4.75,175.0,0,0.0,0,0.0,$3.99
+Winter,Afternoon,Beverage - Cocktail,,(Alc) Deluxe Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Winter,Afternoon,Beverage - Cocktail,,(Alc) Premium Cocktail,0.0,Varies,0,0.0,0,0.0,$11.99
+Winter,Afternoon,Beverage,,(C) Blue Moon Can 16oz,0.0,200.0,0,0.0,0,0.0,$3.99
+Winter,Afternoon,Beverage - Soft Drink,,(C) Bottled Coke,0.0,175.0,0,0.0,0,0.0,$4.99
+Winter,Afternoon,Beverage - Soft Drink,,(C) Bottled Diet Coke,0.0,175.0,0,0.0,0,0.0,$3.99
+Winter,Afternoon,Beverage - Soft Drink,,(C) Bottled Sprite,0.0,175.0,0,0.0,0,0.0,$4.99
+Winter,Afternoon,Water,,(C) Bottled Water,0.0,0.0,0,0.0,0,0.0,$3.99
+Winter,Afternoon,Food - Choclates,,(C) Candy,0.0,150,0,0.0,0,0.0,$2.99
+Winter,Afternoon,Beverage,,(C) Coors Light 16oz Can,0.0,110.0,0,0.0,0,0.0,$8.99
+Winter,Afternoon,Beverage - Beer,,(C) Corona can 16oz,0.0,165.0,0,0.0,0,0.0,$8.99
+Winter,Afternoon,Beverage,,(C) Domestic Draft,0.0,200.0,0,0.0,0,0.0,$14.49
+Winter,Afternoon,Beverage - Cocktail,,(C) Lime A Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Winter,Afternoon,Beverage - Cocktail,,(C) Mango Rita,0.0,250.0,1,0.0,0,0.0,$12.99
+Winter,Afternoon,Beverage,,(C) Miller Lite 16oz Can,0.0,110.0,0,0.0,0,0.0,$4.99
+Winter,Afternoon,Food - Snack,,(C) Peanuts,0.0,165.0,0,0.0,0,0.0,$2.99
+Winter,Afternoon,Beverage,,(C) Premium Draft,0.0,200.0,0,0.0,0,0.0,$3.97
+Winter,Afternoon,Beverage - Cocktail,,(C) Raspberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Winter,Afternoon,Beverage - Cocktail,,(C) Strawberry Rita,0.0,250.0,1,0.0,0,0.0,$4.99
+Winter,Evening,Water,,C NWT | Dasani | BTL 20 F,454.0,0.0,0,0.0,0,0.0,$3.99
+Winter,Evening,Beverage - Soda,,C NSU | Unspecified Soda | CUP 32 F,257.0,-1,0,0.0,0,0.0,$6.99
+Winter,Evening,Beverage,,C ABD | Michelob Golden Draft Light | DFT 24 F,242.0,110.0,0,0.0,0,1.0,$20.99
+Winter,Evening,Beverage - Soda,,C NSU | Unspecified Soda | CUP 24 F,235.0,-1,0,0.0,0,0.0,$5.99
+Winter,Evening,Food - Popcorn,,C FPC Popcorn Large SNK,194.0,250.0,0,0.0,0,0.0,$6.99
+Winter,Evening,Food - Pretzel,,C FPP Giant Pretzel with Cheese SNK,175.0,700.0,1,1.0,0,0.0,$9.99
+Winter,Evening,Beverage - Vodka,,C ALV | Tito's Handmade Vodka | CUP 1.25 F,130.0,97.0,0,0.0,0,0.0,$7.99
+Winter,Evening,Beverage,,C ABD | Coors Light | CAN 24 F,128.0,110.0,0,0.0,0,0.0,$8.98
+Winter,Evening,Beverage,,C ALR | Captain Morgan Original | CUP 1.25 F,127.0,65.0,0,0.0,0,0.0,$9.99
+Winter,Evening,Beverage - Beer,,C ABD | Bud Light | DFT 24 F,125.0,155.0,0,0.0,0,1.0,$12.99
+Winter,Evening,Beverage,,C ABD | Coors Light | DFT 24 F,120.0,110.0,0,0.0,0,0.0,$7.99
+Winter,Evening,Beverage - Soft Drink,,C NSM | Sprite | BTL 20 F,120.0,175.0,0,0.0,0,0.0,$3.99
+Winter,Evening,Beverage,,C ABD | Coors Light | CAN 16 F,97.0,110.0,0,0.0,0,1.0,$13.99
+Winter,Evening,Beverage - Rum,,C ALR | Bacardi Superior | CUP 1.25 F,97.0,-100,0,0.0,0,0.0,$14.99
+Winter,Evening,Beverage - Soft Drink,,C NSM | Diet Coke | BTL 20 F,97.0,175.0,0,0.0,0,0.0,$3.99
+Winter,Evening,Food - Popcorn,,C FPC Popcorn Regular SNK,91.0,125.0,0,0.0,0,0.0,$9.99
+Winter,Evening,Water,,Bottled Water,90.25,0.0,0,0.0,0,0.0,$3.99
+Winter,Evening,Beverage - Soft Drink,,C NSM | Coke | BTL 20 F,90.0,175.0,0,0.0,0,0.0,$3.99
+Winter,Evening,Beverage - Vodka,,C ALV | Pinnacle Vodka | CUP 1.25 F,86.0,97.0,0,0.0,0,1.0,$13.00
+Winter,Night,Water,,C NWT | Dasani | BTL 20 F,1208.5,0.0,0,0.0,0,0.0,$3.99
+Winter,Night,Beverage - Beer,,16oz Beer,748.0,155.0,0,0.0,0,0.0,$7.99
+Winter,Night,Food - Hot Dog,,Hot Dog,516.0,175.0,0,0.0,0,0.0,$7.99
+Winter,Night,Beverage - Beer,,C ABD | Bud Light | CAN 16 F,503.5,110.0,0,0.0,0,1.0,$7.99
+Winter,Night,Beverage - Soda,,C NSU | Unspecified Soda | CUP 24 F,412.0,-1,0,0.0,0,0.0,$5.99
+Winter,Night,Water,,Water,380.0,0.0,0,0.0,0,0.0,$3.99
+Winter,Night,Beverage - Cocktail,,Mixed Drink - Red - Premium,357.0,-200,0,0.0,0,0.0,$9.99
+Winter,Night,Beverage - Beer,,C ABI | Heineken | Heineken 16oz - Vending CAN SB VN 16 F,339.5,155.0,0,0.0,0,0.0,$8.99
+Winter,Night,Beverage,,Deluxe Liquor,320.0,-1,0,0.0,0,0.0,$10.99
+Winter,Night,Beverage - Wine,,Babe Wine Spritzer,319.0,130.0,0,0.0,0,0.0,$7.99
+Winter,Night,Beverage - Beer,,C ABD | Michelob Golden Draft Light | DFT 24 F,289.0,110.0,0,0.0,0,1.0,$20.99
+Winter,Night,Beverage - Beer,,Premium Draft Beer,270.0,155.0,0,0.0,0,1.0,
+Winter,Night,Beverage - Soda,,C NSU | Unspecified Soda | CUP 32 F,263.5,-1,0,0.0,0,0.0,$6.99
+Winter,Night,Food - Popcorn,,Popcorn,248.0,50,0,0.0,0,0.0,$3.99
+Winter,Night,Water,,Dasani Water 20 oz.,234.0,0.0,0,0.0,0,0.0,$3.99
+Winter,Night,Food - Pretzel,,Pretzel,234.0,200,0,0.0,0,0.0,$8.49
+Winter,Night,Beverage - Wine,,9oz wine,230.0,130.0,0,0.0,0,0.0,$9.99
+Winter,Night,Beverage,,P ABI | Stella Artois | BTL 12 F,225.0,175.0,0,0.0,0,0.0,$7.99
+Winter,Night,Beverage - Soda,,Soda,225.0,-1,0,0.0,0,0.0,$3.99
