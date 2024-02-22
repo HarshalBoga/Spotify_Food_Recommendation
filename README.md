@@ -37,7 +37,7 @@ QR Code Generation
 QR codes are generated for general user information. They can be scanned and shared for easy access to recommendations.
 
 Implementation of Predictive Models
-The app includes machine learning models for similarity calculation and recommendation generation. The models are trained on preprocessed data and evaluated for performance.
+app includes machine learning models for similarity calculation and recommendation generation. The models are trained on preprocessed data and evaluated for performance.
 
 
 
