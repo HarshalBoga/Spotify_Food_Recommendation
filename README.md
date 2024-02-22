@@ -8,12 +8,6 @@ Retrieve user's top songs and calculate audio feature similarity from the Spotif
 Display matching music preferences and their similarity percentages.
 Get real-time weather information based on the user's city.
 Recommend vegan food and beverage options if the user is vegan.
-Provide food and beverage recommendations at different levels:
-Level 1: General Top Selling Items
-Level 2: Perfect Things to Eat and Drink based on Vibe
-Level 3: Advanced Personalized Recommendations
-Generate QR codes for general information.
-
 
 Spotify API for user's top songs and audio features.
 Weather API for real-time weather data based on the user's city.
